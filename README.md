@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseph-bartholomew
 - 👀 I’m interested in self-teaching code to become a programmer
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/JS/NodeJS/Bootstrap/React/MongoDB stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: contact@joeybartholomew.com
 
